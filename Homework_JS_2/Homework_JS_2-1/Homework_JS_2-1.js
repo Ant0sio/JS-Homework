@@ -1,0 +1,12 @@
+let box=[10,20,30,40,'fifty','sixty','seventy','eighty',true,false];
+console.log(box);
+console.log(box[0]);
+console.log(box[1]);
+console.log(box[2]);
+console.log(box[3]);
+console.log(box[4]);
+console.log(box[5]);
+console.log(box[6]);
+console.log(box[7]);
+console.log(box[8]);
+console.log(box[9]);
