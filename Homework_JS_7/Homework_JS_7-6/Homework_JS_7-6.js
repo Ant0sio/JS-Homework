@@ -44,5 +44,5 @@ car.info();
 car.increaseMaxSpeed(140);
 
 car.changeYear(2003);
-    console.log(car)
-car.addDriver()
+    console.log(car);
+car.addDriver();

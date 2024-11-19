@@ -42,5 +42,5 @@ console.log(car)
     car.increaseMaxSpeed(140);
 
     car.changeYear(2003);
-        console.log(car)
+        console.log(car);
     car.addDriver({})

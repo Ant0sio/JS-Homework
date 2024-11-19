@@ -23,7 +23,7 @@ const clients=[
     new Client(9,'Mykola','Strogan',"STR@gmail.com",'06754326456',[{title:'Macbook',price:23500},{title:'Printer',price: 3000}]),
     new Client(10,'Bogdan','Mykhniovych',"Myk@gmail.com",'067543234',[{title:'Fleshka',price:23500},{title:'Printer',price: 3000}]),
 
-]
+];
 
 
 console.log(clients.sort((a, b) => a.order.length - b.order.length));

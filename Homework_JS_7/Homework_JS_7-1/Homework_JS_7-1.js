@@ -19,6 +19,6 @@ let users=  [new User(1,'Slaavik','Radevich','radev@gmail.com','+380974323764'),
     new User(9,'Slaavik','Radevich','radev@gmail.com','+380974323764'),
     new User(10,'Slaavik','Radevich','radev@gmail.com','+380974323764')
 
-]
+];
 
  console.log(users);

@@ -26,7 +26,7 @@
 
     console.log(users);
 
-const filter=users.filter((user)=>user.id%2===0)
+const filter=users.filter((user)=>user.id%2===0);
     console.log(filter);
 
     console.log(filter.sort((a, b) => b.id - a.id));

@@ -34,7 +34,7 @@ const popelyshku=[
     new Popelyshka('Rich',15,36),
 ]
 
-const prince=new prince('Ger',31,28)
+const prince=new prince('Ger',31,28);
 
 
 const popelyshka=popelyshku.find(popelyshka=>popelyshka.footSize===prince.tyfelkaSize);
